@@ -31,13 +31,15 @@ by 0.5 point.)
 ### Weekly Schedule
 [Go to Engpro classroom](https://github.com/MK316/Spring2024/blob/main/Engpro/readme.md)
 
+# Table of contents
+
 ### Part I. Introduction
 ### Part II. English Vowels
 ### Part III. English Prosody
 ### Part IV. English Consonants
 ### Appendix
 
-
+---
 # Part 1 Introduction
 
 ### _Q1. How do you pronounce the following city names?_

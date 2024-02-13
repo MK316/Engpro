@@ -31,9 +31,11 @@ by 0.5 point.)
 ### Weekly Schedule
 [Go to Engpro classroom](https://github.com/MK316/Spring2024/blob/main/Engpro/readme.md)
 
-### Part I.
-### Part II.
-### Part III.
+### Part I. Introduction
+### Part II. English Vowels
+### Part III. English Prosody
+### Part IV. English Consonants
+### Appendix
 
 
 # Part 1 Introduction

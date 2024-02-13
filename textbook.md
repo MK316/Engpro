@@ -37,7 +37,7 @@ Workbook, online learning apps
 |4| Assignments (5) | 20 pts.|
 |5| Final presentation | 30 pts.|
 
-• Final grades: 95 and above (A+); Below 60 (F)
+• Final grades: 95 and above (A+) out of 105 pts. ; Below 60 (F)
 [^1]: Attendance policy: In this class, excused absences are accepted, but participation points will still be deducted
 by 0.5 point.)
 

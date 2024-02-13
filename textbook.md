@@ -1,6 +1,40 @@
 # English Pronunciation Practice
 
-Under construction
+### 0. Course overview
+This course is designed to aid students in enhancing their English language abilities, with
+specific emphasis on clear and intelligible pronunciation. Through participatory activities,
+students will sharpen their speaking and listening skills. They will be exposed to a variety of
+authentic materials, including TED talks and online videos, to analyze and practice their
+comprehension and speaking skills. Furthermore, students will use digital resources and AI
+technologies to enhance their language learning experience. In addition to practical language
+exercises, students will be introduced to some linguistic features of
+English pronunciation and will become familiarized with the International Phonetic Alphabet.
+The emphasis on stress and intonation in the English language will also be explored.
+Assignments will be provided to deepen students' understanding of pronunciation, and they
+will have the opportunity to apply their knowledge in a hands-on manner. Upon completion of
+the course, students will possess a comprehensive foundation in English pronunciation,
+equipping them with the skills necessary to become confident and competent English teachers
+in the 21st century.
+
+### Textbook & materials
+Workbook, online learning apps
+
+### Course Requirement & Evaluation
+• Attendance (10%) & Class participation (5%)
+(Attendance policy: In this class, excused absences are accepted, but participation points will still be deducted
+by 0.5 point.)
+• Midterm Exam (40%)
+• Assignments (20%)
+• Final Presentation (30%)
+• Final grades: 95 and above (A+); Below 60 (F)
+
+### Weekly Schedule
+[Go to Engpro classroom](https://github.com/MK316/Spring2024/blob/main/Engpro/readme.md)
+
+### Part I.
+### Part II.
+### Part III.
+
 
 # Part 1 Introduction
 

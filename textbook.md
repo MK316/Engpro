@@ -17,4 +17,4 @@ Under construction
 
 [image source](https://github.com/MK316/Engpro/blob/main/images/brain_sense.png)
 
-<img src="https://github.com/MK316/Engpro/blob/main/images/brain_sense.png" width="500"/>
+<img src="https://github.com/MK316/Engpro/blob/main/images/brain_sense.png" width="800"/>

@@ -15,7 +15,9 @@
 English vowels vary by dialect. Please understand the vowels listed below as approximating the vowel system of General American English.
 
 ||IPA|Examples|Category|Notes|
+|--|--|--|--|--|
 |1|||||
+
 
 
 # Lesson 1 

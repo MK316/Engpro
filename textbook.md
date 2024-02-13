@@ -21,11 +21,11 @@ Workbook, online learning apps
 
 ### Table of contents
 
-### Part I. Introduction
-### Part II. English Vowels
-### Part III. English Prosody
-### Part IV. English Consonants
-### Appendix
++ Part I. Introduction
++ Part II. English Vowels
++ Part III. English Prosody
++ Part IV. English Consonants
++ Appendix
 
 ### Course Requirement & Evaluation
 

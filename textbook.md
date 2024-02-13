@@ -6,7 +6,7 @@ Under construction
 
 ### _Q1. How do you pronounce the following city names?_
 
-[image source](https://github.com/MK316/Engpro/blob/main/images/oakland.png)
+[image source](https://github.com/MK316/Engpro/blob/main/images/Q1_oakland_image.png)
 
 <img src="https://github.com/MK316/Engpro/blob/main/images/oakland.png" width="500"/>
 

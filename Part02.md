@@ -10,6 +10,13 @@
 + Lesson 8 [Unstressed vowel (schwa vowel) as in ‘ago’, ‘upon’, ‘company’](#lesson-8)
 + Lesson 9 [R-colored vowels as in ‘perfect’ and ‘percent’](#lesson-9)
 
+---
+# English vowels
+English vowels vary by dialect. Please understand the vowels listed below as approximating the vowel system of General American English.
+
+||IPA|Examples|Category|Notes|
+|1|||||
+
 
 # Lesson 1 
 ### 🌿 Pronouncing English vowels

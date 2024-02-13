@@ -1,6 +1,6 @@
 # English Pronunciation Practice
 
-### Course overview
+### 🌱 Course overview
 This course is designed to aid students in enhancing their English language abilities, with
 specific emphasis on clear and intelligible pronunciation. Through participatory activities,
 students will sharpen their speaking and listening skills. They will be exposed to a variety of
@@ -16,7 +16,7 @@ the course, students will possess a comprehensive foundation in English pronunci
 equipping them with the skills necessary to become confident and competent English teachers
 in the 21st century.
 
-### Textbook & materials
+### 🌱 Textbook & materials
 Workbook, online learning apps
 
 ### Table of contents
@@ -27,7 +27,7 @@ Workbook, online learning apps
 + Part IV. English Consonants
 + Appendix
 
-### Course Requirement & Evaluation
+### 🌱 Course Requirement & Evaluation
 
 | | Category | Percentage|
 |--|--|--|
@@ -43,7 +43,7 @@ by 0.5 point.)
 
 
 
-### Weekly Schedule
+### 🌱 Weekly Schedule
 [Go to Engpro classroom](https://github.com/MK316/Spring2024/blob/main/Engpro/readme.md)
 
 

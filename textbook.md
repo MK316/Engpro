@@ -1,6 +1,6 @@
 # English Pronunciation Practice
 
-### 0. Course overview
+### Course overview
 This course is designed to aid students in enhancing their English language abilities, with
 specific emphasis on clear and intelligible pronunciation. Through participatory activities,
 students will sharpen their speaking and listening skills. They will be exposed to a variety of

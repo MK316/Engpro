@@ -12,20 +12,20 @@
 
 
 # Lesson 1 
-### Pronouncing English vowels
-# Lesson 2 
-### Tense and lax ‘i’ - sheep vs. ship
+### 🌿 Pronouncing English vowels
+# Le sson 2 
+### 🌿 Tense and lax ‘i’ - sheep vs. ship
 # Lesson 3 
-### Tense and lax ‘u’ - pool vs. pull
+### 🌿 Tense and lax ‘u’ - pool vs. pull
 # Lesson 4 
-### Vowel pair in ‘bed’ and ‘bad’
+### 🌿 Vowel pair in ‘bed’ and ‘bad’
 # Lesson 5 
-### Vowel [ɑ] and spelling confusion
+### 🌿 Vowel [ɑ] and spelling confusion
 # Lesson 6 
-### Vowels in ‘but’, ‘bought’, ‘boat’
+### 🌿 Vowels in ‘but’, ‘bought’, ‘boat’
 # Lesson 7 
-### Diphthong vowels in English
+### 🌿 Diphthong vowels in English
 # Lesson 8 
-### Unstressed vowel (schwa vowel) as in ‘ago’, ‘upon’, ‘company’
+### 🌿 Unstressed vowel (schwa vowel) as in ‘ago’, ‘upon’, ‘company’
 # Lesson 9 
-### R-colored vowels as in ‘perfect’ and ‘percent’
+### 🌿 R-colored vowels as in ‘perfect’ and ‘percent’
